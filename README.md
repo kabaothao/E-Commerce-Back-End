@@ -19,7 +19,7 @@
 ## General Information
 
 - What is the purpose of your project?
-- To create interfaces that allow non-developers to easily view and interact with information stored in databases. 
+- To build the back end for an e-commerce site.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,13 +28,13 @@
 - Visual Studio
 - Node.js
 - Javascipt
-- MySQL
+- MySQL2
 - MYSQL Workbench
 - Git Bash
 
 ## Features
 
-- This application was created using Git Bash to navigate the company's employee database, along with Node.js, MYSQL, and MYSQL Workbench.
+- This application was created using Git Bash to navigate the E-Commerce database and testing in Postman, along with Node.js, MYSQL, Dotenv, Express, and Sequelize.
 
 
 ## Screenshots
@@ -53,14 +53,21 @@ What are the project requirements/dependencies? Where are they listed? A require
 - Express
 - Inquirer
 - Mysql2
-- Console.table
+- Sequelize
 
 
 ## Usage
 
 How does one go about using it?
 
-- This command-line application manages a company's employees using node, inquirer, and MySQL.
+- This command-line application manages a E-Commerce database using node and MySQL.
+- The walkthrough video show all of the technical acceptance criteria being met below:
+  - how to create the schema from the MySQL shell.
+  - how to seed the database from the command line.
+  - how to start the application’s server.
+  - demonstrate GET routes for all categories, all products, and all tags being tested in Postman.
+  - demonstrate GET routes for a single category, a single product, and a single tag being tested in Postman.
+  - demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Postman.
 
 ## Acknowledgements
 
