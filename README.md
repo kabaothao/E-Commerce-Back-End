@@ -19,7 +19,7 @@
 ## General Information
 
 - What is the purpose of your project?
-- To build the back end for an e-commerce site.
+- To build the back end for an e-commerce site in order to stay competitive with other e-commerce companies. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -39,7 +39,7 @@
 
 ## Screenshots
 
-![Example screenshot](https://github.com/kabaothao/Employee-Tracker/blob/main/Assets/demopic.PNG)
+![Example screenshot](https://github.com/kabaothao/E-Commerce-Back-End/blob/main/Assets/demopic.PNG)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
